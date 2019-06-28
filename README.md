@@ -18,3 +18,8 @@ Created a shopping cart with:
   Update the product details page to include a "Buy" button, which adds the current product to a list of products managed by a cart service.
   Add a cart component, which displays the items you added to your cart.
   Add a shipping component, which retrieves shipping prices for the items in the cart by using Angular's HttpClient to retrieve shipping data from a .json file.
+  
+  ![altText](https://github.com/JordanoBaluz/AngularFirstApp/blob/master/AngularAppImages/AngularAppHome.PNG)
+![altText](https://github.com/JordanoBaluz/AngularFirstApp/blob/master/AngularAppImages/AngularCheckoutPage.PNG)
+![altText](https://github.com/JordanoBaluz/AngularFirstApp/blob/master/AngularAppImages/AngularProductDetails.PNG)
+![altText](https://github.com/JordanoBaluz/AngularFirstApp/blob/master/AngularAppImages/AngularShippingPrices.PNG)
